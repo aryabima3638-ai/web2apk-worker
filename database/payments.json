@@ -1,0 +1,47 @@
+{
+  "qris": {
+    "name": "QRIS",
+    "type": "photo",
+    "enabled": true,
+    "data": {
+      "photoFileId": "",
+      "caption": "Silakan scan QRIS di atas untuk melakukan pembayaran."
+    }
+  },
+  "dana": {
+    "name": "Dana",
+    "type": "number",
+    "enabled": true,
+    "data": {
+      "number": "081252815096",
+      "holderName": "sya** rid***"
+    }
+  },
+  "ovo": {
+    "name": "OVO",
+    "type": "number",
+    "enabled": true,
+    "data": {
+      "number": "081252815096",
+      "holderName": "AL"
+    }
+  },
+  "shopeepay": {
+    "name": "ShopeePay",
+    "type": "number",
+    "enabled": true,
+    "data": {
+      "number": "",
+      "holderName": ""
+    }
+  },
+  "gopay": {
+    "name": "GoPay",
+    "type": "number",
+    "enabled": true,
+    "data": {
+      "number": "081251815096",
+      "holderName": "Al"
+    }
+  }
+}
