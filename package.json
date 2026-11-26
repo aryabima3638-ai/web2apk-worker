@@ -1,0 +1,27 @@
+{
+  "name": "BOT BUILD WEB2APP RIZAL",
+  "version": "1.0.0",
+  "main": "bot/index.js",
+  "scripts": {
+    "start": "npm install && node bot/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.17",
+    "axios": "^1.14.0",
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "express": "^4.18.2",
+    "fs-extra": "^11.3.4",
+    "node-ssh": "^13.2.1",
+    "node-telegram-bot-api": "^0.67.0",
+    "sharp": "^0.34.5",
+    "winston": "^3.19.0",
+    "form-data": "^4.0.6"
+  },
+  "description": ""
+}
