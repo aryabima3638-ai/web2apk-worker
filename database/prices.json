@@ -1,0 +1,43 @@
+{
+  "per_day": {
+    "id": "per_day",
+    "name": "Per Day",
+    "price": 2000,
+    "durationDays": 1,
+    "enabled": true,
+    "displayOrder": 1
+  },
+  "1_week": {
+    "id": "1_week",
+    "name": "1 Week",
+    "price": 15000,
+    "durationDays": 7,
+    "enabled": true,
+    "displayOrder": 2
+  },
+  "1_month": {
+    "id": "1_month",
+    "name": "1 Month",
+    "price": 20000,
+    "durationDays": 30,
+    "enabled": true,
+    "displayOrder": 3
+  },
+  "permanent": {
+    "id": "permanent",
+    "name": "Perma",
+    "price": 25000,
+    "durationDays": null,
+    "enabled": true,
+    "displayOrder": 4
+  },
+  "ress_akses": {
+    "id": "ress_akses",
+    "name": "Ress Akses",
+    "price": 35000,
+    "durationDays": null,
+    "isReseller": true,
+    "enabled": true,
+    "displayOrder": 5
+  }
+}
