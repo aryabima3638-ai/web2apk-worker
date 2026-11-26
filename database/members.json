@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bba25941-84fb-451d-ae24-14f218b32ad2",
+    "telegramId": "8119992455",
+    "username": null,
+    "key": "8F9137C5B5034605",
+    "expiresAt": "2300-04-19T12:41:51.448Z",
+    "accessType": "bot",
+    "createdBy": 7926220790,
+    "createdAt": "2026-07-04T12:41:51.448Z",
+    "devices": {},
+    "status": "active"
+  },
+  {
+    "id": "a2ae6ffb-687c-4699-896e-094759608f69",
+    "telegramId": "1122207241",
+    "username": null,
+    "key": "E5ACF323A66E426D",
+    "expiresAt": "2053-11-19T12:39:51.067Z",
+    "accessType": "all",
+    "createdBy": 7926220790,
+    "createdAt": "2026-07-04T12:39:51.067Z",
+    "devices": {},
+    "status": "active"
+  },
+  {
+    "id": "25ff11d5-9bce-4fd0-a520-1e8641a1a303",
+    "telegramId": "7926220790",
+    "username": null,
+    "key": "55B550902492438D",
+    "expiresAt": "2053-11-19T12:54:05.868Z",
+    "accessType": "web",
+    "createdBy": 7926220790,
+    "createdAt": "2026-07-04T12:54:05.868Z",
+    "devices": {},
+    "status": "active"
+  }
+]
